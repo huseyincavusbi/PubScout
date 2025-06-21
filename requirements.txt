@@ -1,0 +1,14 @@
+# requirements.txt
+biopython
+groq
+python-dotenv
+schedule
+slack-sdk
+tenacity
+chromadb
+sentence-transformers
+streamlit
+pandas
+plotly
+wordcloud
+slack_bolt
