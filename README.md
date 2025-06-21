@@ -153,7 +153,7 @@ This service is the engine of the project. It runs the poller to find new papers
 > **📢 Note on Slack Alerts:** In parallel with the terminal output, you will see alerts for each successfully processed paper appear in your configured Slack channel. They will look like this:
 
 <div align="center">
-  <img src="Example Images/sent_slack.png" alt="Slack Alert Example" width="600">
+  <img src="Example Images/sent_slack.png" alt="Slack Alert Example" width="100%">
   <p><em>Example of automated Slack alerts for new research papers</em></p>
 </div>
 
@@ -184,7 +184,7 @@ When the agent finds relevant context, it will synthesize a direct answer.
 **Command:** `/pubscout_ask Based on the current papers, what strategies are being used to make mRNA vaccines more effective in solid tumors?`
 
 <div align="center">
-  <img src="Example Images/success.png" alt="Successful Query Example" width="600">
+  <img src="Example Images/success.png" alt="Successful Query Example" width="100%">
   <p><em>Example of a comprehensive answer based on available research context</em></p>
 </div>
 
@@ -194,7 +194,7 @@ When the agent finds relevant context, it will synthesize a direct answer.
 If the agent does not find specific context to answer your question, it will state so clearly instead of making up an answer. This is a critical feature that prevents misinformation.
 
 <div align="center">
-  <img src="Example Images/failure.png" alt="Grounded Response Example" width="600">
+  <img src="Example Images/failure.png" alt="Grounded Response Example" width="100%">
   <p><em>Example of honest response when relevant context is not available</em></p>
 </div>
 
