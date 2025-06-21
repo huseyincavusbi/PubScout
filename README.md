@@ -181,8 +181,6 @@ With both services running, you can now query the agent. The responses will depe
 ### ✅ Example of a Successful Answer
 When the agent finds relevant context, it will synthesize a direct answer.
 
-**Command:** `/pubscout_ask Based on the current papers, what strategies are being used to make mRNA vaccines more effective in solid tumors?`
-
 <div align="center">
   <img src="Example Images/success.png" alt="Successful Query Example" width="100%">
   <p><em>Example of a comprehensive answer based on available research context</em></p>
